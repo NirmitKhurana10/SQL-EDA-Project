@@ -71,14 +71,3 @@ select
 union all
 select	
 	'Total Converted Customers' as measure_name, COUNT(distinct fs.customer_key ) as measure_value from fact_sales fs 
-
-
-
-
-
-
-
-
-
-
-
