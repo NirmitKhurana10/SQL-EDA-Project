@@ -1,4 +1,4 @@
-# SQL Exploratory Data Analysis (EDA) Project
+# Retail Sales CRM and ERP EDA (SQL)
 
 A structured SQL-based Exploratory Data Analysis project built on a sales data warehouse. This project demonstrates how to systematically explore, understand, and extract business insights from relational data using pure SQL — without any external BI tools or scripting languages.
 
